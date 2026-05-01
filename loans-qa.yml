@@ -1,0 +1,16 @@
+spring:
+  config:
+    active:
+      on-profile:"prod"
+
+build:
+  version: "1.0"
+
+loans:
+  message: "welcome to easybank accounts related qa api's"
+  contactDetails:
+    name: "afreeda meraj"
+    email: "afreeda@gmail.com"
+  onCallSupport:
+    - (222) 555-1234
+    - (111) 523-1345

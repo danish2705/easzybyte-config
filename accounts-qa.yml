@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "welcome to easybank accounts related qa api's"
+  contactDetails:
+    name: "saba meraj"
+    email: "saba@gmail.com"
+  onCallSupport:
+    - (999) 555-1234
+    - (888) 523-1345

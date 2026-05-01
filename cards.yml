@@ -1,0 +1,10 @@
+build:
+    version: "3.0"
+cards:
+  message: "welcome to easybank accounts related card api's"
+  contactDetails:
+    name: "afreeda meraj"
+    email: "afreeda@gmail.com"
+  onCallSupport:
+    - (222) 555-1234
+    - (111) 523-1345
