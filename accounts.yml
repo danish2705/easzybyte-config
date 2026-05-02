@@ -5,7 +5,7 @@ accounts:
   message: "welcome to easybank accounts related local api's"
   contactDetails:
     name: "danish meraj"
-    email: "danish@gmail.com"
+    email: "{cipher}78f8d6de4e20bd8ca19249122764a62f9e596593c66acf577c356b43ec830cf95d610ded320522342a3e5dc0e3409bfa"
   onCallSupport:
     - (666) 555-1234
     - (555) 523-1345
