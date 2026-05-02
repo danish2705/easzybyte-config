@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "welcome to easybank accounts related production api's"
+  message: "welcome to easybank accounts related prod api's"
   contactDetails:
     name: "afreeda meraj"
     email: "afreeda@gmail.com"
